@@ -167,6 +167,7 @@ vendor.audio.feature.battery_listener.enable=true \
 vendor.audio.feature.compr_cap.enable=false \
 vendor.audio.feature.compress_in.enable=true \
 ro.config.avoid_gfx_accel=true \
+persist.mm.enable.prefetch=true \
 vendor.audio.feature.compress_meta_data.enable=true \
 vendor.audio.feature.compr_voip.enable=true \
 vendor.audio.feature.concurrent_capture.enable=true \
